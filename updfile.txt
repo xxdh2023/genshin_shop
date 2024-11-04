@@ -1,5 +1,5 @@
 {
-  "upd_list": {"name":"genshin_shop-update-v4.4.1.zip","path":"\\","time":"2024-11-02 09:46:15","url":"","comp":true,"compwd":""},
+  "upd_list": {"name":"genshin_shop-update-v4.4.0.zip","path":"\\","time":"2024-11-05 08:00:00","url":"","comp":true,"compwd":""},
   "kill_list": [{"name":"main","path":"\\"}],
   "del_list": [],
   "run_list": [{"name":"main","path":"\\","run":"7777"}]
